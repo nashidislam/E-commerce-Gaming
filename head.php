@@ -231,7 +231,7 @@
         </li>
         <li><a href="home.php">
               <span class="glyphicon glyphicon-shopping-cart"></span>
-            </a></li>
+             </a></li>
       </ul>
     </div>
   </div>
