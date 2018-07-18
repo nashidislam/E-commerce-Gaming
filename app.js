@@ -30,7 +30,7 @@ var app = angular.module("myModule", [])
 					}
 				}
 				$scope.showCart = function() {
-					$scope.showCart1= 1;
+					$scope.showCart1= 2;
 				window.location= url;
     }
 	});
